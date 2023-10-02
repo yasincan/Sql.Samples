@@ -40,4 +40,10 @@ decimal totalResult = (decimal)totalPrice.Value; //Sonuç
 Console.WriteLine($"Tarihleri {startDate:dd.MM.yyyy} - {endDate:dd.MM.yyyy} arası siparişlerin toplam fiyatı {totalResult}");
 
 
+//03 Entity Framework Core ile Dinamik LINQ Kullanımı
+
+
+
+
+
 Console.WriteLine("Hello, World!");
